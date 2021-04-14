@@ -5,6 +5,7 @@ matplotlib
 rasterio
 jupyter
 scikit-learn
+seaborn
 
 # required for repo contribution/testing
 # pinned to avoid surprises
