@@ -3,6 +3,7 @@ numpy
 pandas 
 matplotlib
 rasterio
+jupyter
 
 # required for repo contribution/testing
 # pinned to avoid surprises
