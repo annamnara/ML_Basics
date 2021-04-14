@@ -28,8 +28,6 @@ jobs:
       run: python -c "import sys; print(sys.version)"
     - name: pip install
       run: pip install -r requirements.txt
-    - name: Install kernels
-      run: python3 -m jupyter kernelspec install-self
     - name: Check kerenls
       run: jupyter kernelspec list
     - name: run knn_digits.ipynb
