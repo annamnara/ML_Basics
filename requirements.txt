@@ -4,6 +4,7 @@ pandas
 matplotlib
 rasterio
 jupyter
+scikit-learn
 
 # required for repo contribution/testing
 # pinned to avoid surprises
