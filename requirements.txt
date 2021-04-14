@@ -3,3 +3,9 @@ numpy
 pandas 
 matplotlib
 rasterio
+
+# required for repo contribution/testing
+# pinned to avoid surprises
+black==20.8b1
+black-nb==0.4.0
+papermill==2.3.3
