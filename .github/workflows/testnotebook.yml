@@ -31,4 +31,4 @@ jobs:
     - name: Check kerenls
       run: jupyter kernelspec list
     - name: run knn_digits.ipynb
-      run: papermill knn_digits.ipynb - -k python
+      run: papermill knn_iris.ipynb - -k python
