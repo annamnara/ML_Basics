@@ -27,4 +27,4 @@ jobs:
     - name: pip install
       run: pip install -r requirements.txt
     - name: run knn_digits.ipynb
-      run: papermill knn_digits.ipynb - -k python3.6.9
+      run: papermill knn_digits.ipynb - -k python3.6
